@@ -1,0 +1,7 @@
+  * [Configuration](pdfinvoice_config.md)
+  * [Templates comparison](Templates.md)
+  * [Html template](HTML_template.md)
+  * [XML Templates](StartHere.md)
+    * [Start here](StartHere.md)
+    * [Document structure](XML_template_document_structure.md)
+    * [widgets](XML_template_widgets.md)
